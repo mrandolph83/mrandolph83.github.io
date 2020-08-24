@@ -1,11 +1,11 @@
 # Site settings
 author: Matt Smith
-title: 
+title: Tech Bootcamping with Matt
 header-img: img/home-bg.png
 email: mrandolph83@gmail.com
 copyright_name: Matt Smith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One dad's Covid career transition from video to tech
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mrandolph83
