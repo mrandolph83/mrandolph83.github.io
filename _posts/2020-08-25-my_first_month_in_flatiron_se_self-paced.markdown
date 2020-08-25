@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My First Month in Flatiron SE Self-Paced"
-date:       2020-08-25 13:15:53 +0000
+date:       2020-08-25 09:15:53 -0400
 permalink:  my_first_month_in_flatiron_se_self-paced
 ---
 
